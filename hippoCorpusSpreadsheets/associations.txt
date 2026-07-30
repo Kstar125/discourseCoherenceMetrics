@@ -1,0 +1,9 @@
+All the spreadsheets in the 'hippoCorpusSpreadsheets' directory are associated with the 'hippoCorpusV3Analyses.ipynb' file and the approaches therein. The processed stories were initially sourced from the 3rd version of the HippoCorpus dataset found at: https://www.microsoft.com/en-us/download/details.aspx?id=105291
+
+- hippoCorpusOutput.csv: Raw stories processed utilizing the preprocessing approach in Section 2.
+- hippoCorpusStabilityBertOutput.csv: Results calculated utilizing the BERT model-based similarity-by-sentence approach described in Section 3.
+- hippoCorpusStabilitySbertOutput.csv: Results calculated utilizing the S-BERT model-based similariy-by-sentence approach described in Section 4.
+- hippoCorpusStabilityBertTopicOutput.csv: Results calculated utilizing the BERT model-based similarity-to-summary approach described in Section 6.
+- hippoCorpusStabilitySbertTopicOutput.csv: Results calculated utilizing the S-BERT model-based similarity-to-summary approach described in Section 7.
+- hippoCorpusStabilityBertClusteringVersionTwoOutput.csv: Results utilizing the BERT model-based distance-to-summary approach described in Section 9.
+- hippoCorpusStabilitySbertClusteringVersionTwoOutput.csv: Results utilizing the S-BERT model-based distance-to-summary approach described in Section 10.

@@ -1,0 +1,9 @@
+All the spreadsheets in the 'rocStoriesSpreadsheets' directory are associated with the 'distanceMetrics.ipynb' and the 'similarityMetrics.ipynb' files and the approaches therein. The processed stories were initially sourced from the ROCstories Corpus; for more information, see: https://arxiv.org/pdf/1604.01696
+
+- bertKmeansClusteringDistances.csv: Results calculated utilizing the BERT model implementation of the distance-based approach found in 'distanceMetrics.ipynb'.
+- sbertKmeansClusteringDistances.csv: Results calculated utilizing the S-BERT model implementation of the distance-based approach found in 'distanceMetrics.ipynb'.
+- s3bertKmeansClusteringDistances.csv: Results calculated utilizing the S3BERT model implementation of the distance-based approach found in 'distanceMetrics.ipynb'.
+
+- bertSentBySentCosSims.csv: Results calculated utilizing the BERT model implementation of the similarity-based approach found in 'similarityMetrics.ipynb'.
+- sbertSentBySentCosSims.csv: Results calculated utilizing the S-BERT model implementation of the similarity-based approach found in 'similarityMetrics.ipynb'.
+- s3bertSentBySentCosSims.csv: Results calculated utilizing the S3BERT model implementation of the similarity-based approach found in 'similarityMetrics.ipynb'.
