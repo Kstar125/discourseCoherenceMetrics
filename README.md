@@ -27,7 +27,7 @@ The included scripts document the performance of the new coherence metrics in tw
 
 1) **Cloze Story Test**: Aims to select human-labelled coherent ending continuations over less coherent ending alternatives (See story dataset at: http://cs.rochester.edu/nlp/rocstories).
 
-Novel metrics achieve up to ~65% accuracy in identifying correct narrative endings from the ROCstories Corpus narratives, 5% higher than prior computational benchmarks. 
+Novel metrics achieve up to ~65% accuracy in identifying correct narrative endings from the ROCStories Corpus narratives, 5% higher than prior computational benchmarks. 
 
 Implementation found in similarityMetrics.ipynb and distanceMetrics.ipynb; corresponding spreadsheets of results are included in the /rocStoriesSpreadsheets directory. 
 
@@ -59,12 +59,16 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ## Acknowledgments
 
-The work in the Cloze Story Test derives from and uses stories from the ROCStories Corpus introduced by Mostafazadeh, N., Chambers, N., He, X., Parikh, D., Batra, D., Vanderwende, L., Kohli, P., Allen, J. (2016). A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories. In *Proceedings of the 2016 North American Chapter of the ACL (NAACL HTLT)*, 2016. https://aclanthology.org/N16-1098.pdf
+The work in the Cloze Story Test derives from and uses stories from the ROCStories Corpus collected and curated by Mostafazadeh, N., Chambers, N., He, X., Parikh, D., Batra, D., Vanderwende, L., Kohli, P., Allen, J. (2016). A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories. In *Proceedings of the 2016 North American Chapter of the ACL (NAACL HTLT)*, 2016. https://aclanthology.org/N16-1098.pdf
 
-The work in the Narrative Categorization Task derives from and uses stories from the HippoCorpus dataset introduced by Sap, M., Horvitz, E., Choi, Y., Smith, N. A., & Pennebaker, J. (2020). Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, pages 1970–1978, Online. Association for Computational Linguistics. https://aclanthology.org/2020.acl-main.178/
+The work in the Narrative Categorization Task derives from and uses stories from the HippoCorpus dataset collected and curated by Sap, M., Horvitz, E., Choi, Y., Smith, N. A., & Pennebaker, J. (2020). Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models. In *Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics*, pages 1970–1978, Online. Association for Computational Linguistics. https://aclanthology.org/2020.acl-main.178/
 
 The implementation of S3BERT in the current project follows the approach provided by Opitz, J., & Frank, A. (2022). SBERT studies meaning representations: Decomposing sentence embeddings into explainable semantic features. In He, Y., Ji, H., Li, S., Liu, Y., and Chang, C.-H., editors, *Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)*, pages 625–638, Online only. Association for Computational Linguistics. https://aclanthology.org/2022.aacl-main.48.pdf \
 See repository at: https://github.com/flipz357/S3BERT
 
 The implementation of S-BERT in the current project follows the approach provided by Reimers, N., & Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, pages 3982–3992, Hong Kong, China, November 3 – 7. 2019. Association for Computational Linguistics. https://aclanthology.org/D19-1410/
+
+## Contact
+
+Email: korey.millerboyle@alumni.utoronto.ca
 
