@@ -16,10 +16,12 @@ Please ensure that the following packages are installed if attempting to run inc
 
 | package | version |
 | :--- | :--- |
-| torch | 2.11.0 |
-| pandas | 3.0.1 |
-| numpy | 2.4.3 |
-| scikit-learn | 1.8.0 |
+| torch | 2.14.1 |
+| pandas | 3.0.6 |
+| numpy | 2.5.4 |
+| scikit-learn | 1.9.1 |
+
+For a full list of dependencies, see the [requirements.txt](requirements.txt) file.
 
 ## Usage
 
